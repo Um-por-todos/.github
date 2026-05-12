@@ -1,0 +1,9 @@
+UM POR TODODS
+
+Descrição: Sistema capaz de dividir contas básicas entre moradores de forma individual e igualitária baseada no número de moradores.
+Perfis: Morador e Administrador da Casa.
+Requisitos Funcionais:
+Cadastro de moradores na casa.
+Lançamento de despesa (valor, tipo, quem pagou).
+Relatório de "Quem deve para quem" (Balanço).
+Marcação de pagamento de dívida.
