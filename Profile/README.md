@@ -1,10 +1,10 @@
-🏠 Um por Todos — Racha-Conta
+# 🏠 Um por Todos — Racha-Conta
 
 Sistema desenvolvido para facilitar a divisão de despesas em repúblicas, casas compartilhadas e apartamentos com múltiplos moradores.
 
 O Um por Todos tem como objetivo tornar a convivência financeira mais transparente, organizada e justa, permitindo que todos os moradores acompanhem gastos, dívidas e pagamentos de forma simples e eficiente.
 
-📌 Sobre a Empresa
+# 📌 Sobre a Empresa
 
 A Um por Todos surgiu com o propósito de resolver um problema comum entre moradores de repúblicas e casas compartilhadas: a organização das despesas coletivas.
 
@@ -17,7 +17,7 @@ Redução de conflitos relacionados a pagamentos.
 
 Acreditamos que dividir uma casa não precisa significar complicações financeiras.
 
-🎯 Objetivo do Projeto
+# 🎯 Objetivo do Projeto
 
 O projeto Racha-Conta foi criado para automatizar o controle e a divisão de despesas básicas entre moradores de uma residência compartilhada.
 
@@ -28,8 +28,8 @@ Registro de despesas;
 Cálculo automático da divisão de valores;
 Controle de pagamentos;
 Relatórios de balanço financeiro entre moradores.
-👥 Perfis do Sistema
-🧑 Morador
+# 👥 Perfis do Sistema
+>🧑 Morador
 
 Responsável por:
 
@@ -37,7 +37,8 @@ Visualizar despesas;
 Acompanhar dívidas;
 Confirmar pagamentos;
 Consultar balanços.
-🛠️ Administrador da Casa
+
+>🛠️ Administrador da Casa
 
 Responsável por:
 
@@ -45,7 +46,7 @@ Gerenciar moradores;
 Registrar despesas;
 Organizar pagamentos;
 Visualizar relatórios gerais.
-⚙️ Regra de Negócio Principal
+# ⚙️ Regra de Negócio Principal
 
 Uma despesa registrada no sistema é dividida igualmente entre os moradores cadastrados na casa.
 
@@ -54,12 +55,13 @@ Valor Individual = Valor Total da Despesa / Número de Moradores
 
 Exemplo:
 
-Conta de internet: R$ 120,00
-Moradores: 4
+  Conta de internet: R$ 120,00
+  Moradores: 4
 
-Cada morador deve pagar:
-R$ 30,00
-✅ Requisitos Funcionais
+  Cada morador deve pagar:
+  R$ 30,00
+
+# ✅ Requisitos Funcionais
 Cadastro de moradores da residência;
 Lançamento de despesas:
 valor;
@@ -69,50 +71,51 @@ Divisão automática dos valores;
 Relatório de “quem deve para quem”;
 Controle de quitação de dívidas;
 Visualização do balanço financeiro da casa.
-📊 Funcionalidades Futuras
+# 📊 Funcionalidades Futuras
 Notificações de cobrança;
 Histórico mensal de despesas;
 Integração com PIX;
 Dashboard financeiro;
 Exportação de relatórios em PDF;
 Aplicativo mobile.
-🧠 Tecnologias (Sugestão)
-Frontend: React / Next.js
-Backend: Node.js / Spring Boot
-Banco de Dados: PostgreSQL / MySQL
-Autenticação: JWT
+# 🧠 Tecnologias 
+Frontend: ...
+Backend: ...
+Banco de Dados: ...
+Autenticação: ...
 Versionamento: Git + GitHub
-🚀 Como Executar o Projeto
-# Clone o repositório
-git clone https://github.com/seu-usuario/racha-conta.git
 
-# Acesse a pasta
-cd racha-conta
+# 🚀 Como Executar o Projeto
+Clone o repositório
+git clone ...
 
-# Instale as dependências
-npm install
+Acesse a pasta
+...
 
-# Execute o projeto
-npm run dev
-📂 Estrutura do Projeto
+Instale as dependências
+...
+
+Execute o projeto
+...
+
+# 📂 Estrutura do Projeto
 src/
- ├── controllers
- ├── services
- ├── repositories
- ├── models
- ├── routes
- ├── database
- └── utils
-🤝 Integrantes
+ ├── ...
+ ├── ...
+ ├── ...
+ ├── ...
+ ├── ...
+ ├── ...
+ └── ...
+# 🤝 Integrantes
 
 Projeto desenvolvido por:
-
 Victor
 Renan
-📄 Licença
+# 📄 Licença
 
 Este projeto está sob a licença MIT.
 
-💡 Frase do Projeto
+# 💡 Frase do Projeto
 
 “Dividir despesas não precisa dividir amizades.”
